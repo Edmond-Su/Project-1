@@ -1,0 +1,32 @@
+header{
+    text-align: right;
+    background-color: ;
+}
+
+footer{
+    text-align: center;
+}
+
+.header-footer{
+    background-color: blueviolet;
+}
+
+#Main{
+    text-align: center;
+    border-top: 10px solid blue;
+
+}
+img{
+    background-color: aliceblue;
+    margin: auto;
+    border: 10px solid  black;
+    padding: 20px;
+    
+}
+#Contact{
+    background-color: rgb(196, 196, 196);
+    padding: 20px;
+    border-top: 10px solid grey;
+    text-align: center;
+}
+
